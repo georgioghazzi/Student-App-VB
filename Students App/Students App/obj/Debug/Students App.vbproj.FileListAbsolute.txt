@@ -1,0 +1,19 @@
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Students App.exe.config
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Students App.exe
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Students App.pdb
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Students App.xml
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.vbprojResolveAssemblyReference.cache
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students_App.Form1.resources
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students_App.Resources.resources
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.vbproj.GenerateResource.cache
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.vbproj.CoreCompileInputs.cache
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.vbproj.CopyComplete
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.exe
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.xml
+D:\Projects\2018\Student App VB\Students App\Students App\obj\Debug\Students App.pdb
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Projects\2018\Student App VB\Students App\Students App\bin\Debug\Bunifu.Core.dll
