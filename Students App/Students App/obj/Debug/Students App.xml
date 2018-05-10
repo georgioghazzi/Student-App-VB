@@ -22,5 +22,30 @@ Students App
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Students_App.My.Resources.Resources.kisspng_computer_icons_organization_student_professional_clipart_5ad7f6c9aa64e0_9382310515241028576979">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Students_App.My.Resources.Resources.ms_windows_clipart_computer_school_10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Students_App.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Students_App.My.Resources.Resources.Untitled_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Students_App.My.Resources.Resources.Untitled_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
